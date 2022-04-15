@@ -1,0 +1,2 @@
+https://pulkovoairport.ru/api/?type=departure&when=0&_=1643058015961
+https://pulkovoairport.ru/api/?type=arrival&when=0&_=1643106690490
