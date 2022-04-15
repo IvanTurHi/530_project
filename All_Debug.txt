@@ -1,0 +1,57 @@
+19.05.2020 22:54:33 --- START ---
+19.05.2020 23:30:07 - phaeton - work
+20.05.2020 00:15:07 - Spisok_test - work
+20.05.2020 00:33:49 - phaetonalfa - work
+20.05.2020 01:01:44 - filter_new_v5 - work
+20.05.2020 01:30:22 - phaetonbravo - not work
+20.05.2020 02:05:07 - filter - not work 
+20.05.2020 02:35:34 - Push_II - work
+20.05.2020 22:54:33 --- START ---
+20.05.2020 23:30:27 - phaeton - work
+21.05.2020 00:15:27 - Spisok_test - work
+21.05.2020 00:34:09 - phaetonalfa - work
+21.05.2020 01:01:44 - filter_new_v5 - work
+21.05.2020 01:30:32 - phaetonbravo - not work
+21.05.2020 02:05:27 - filter - not work 
+21.05.2020 02:35:34 - Push_II - work
+21.05.2020 22:54:33 --- START ---
+21.05.2020 23:30:27 - phaeton - work
+22.05.2020 00:15:27 - Spisok_test - work
+22.05.2020 00:33:59 - phaetonalfa - work
+22.05.2020 01:01:14 - filter_new_v5 - work
+22.05.2020 01:30:22 - phaetonbravo - not work
+22.05.2020 02:05:07 - filter - not work 
+22.05.2020 02:35:34 - Push_II - work24.11.2021 16:41:51 --- START ---
+24.11.2021 16:44:41 --- START ---
+24.11.2021 16:50:37 --- START ---
+24.11.2021 16:58:07 --- START ---
+24.11.2021 17:00:41 - phaeton - work
+24.11.2021 17:01:32 - Spisok_test - work
+24.11.2021 17:02:43 - phaetonalfa - not work
+24.11.2021 17:04:01 --- START ---
+24.11.2021 17:05:35 - phaeton - work
+24.11.2021 17:06:45 - Spisok_test - work
+24.11.2021 17:08:32 - phaetonalfa - work
+07.12.2021 23:41:14 --- START ---
+07.12.2021 23:42:49 - phaeton - work
+07.12.2021 23:43:19 - Spisok_test - work
+07.12.2021 23:45:37 - phaetonalfa - work
+08.12.2021 00:02:46 --- START ---
+08.12.2021 00:11:42 - phaeton - work
+08.12.2021 00:12:33 - Spisok_test - work
+08.12.2021 00:22:33 - phaetonalfa - work
+08.12.2021 00:40:38 - filter_new_v5 - not work
+04.02.2022 12:48:22 --- START ---
+05.02.2022 18:48:09 --- START ---
+05.02.2022 18:48:57 --- START ---
+05.02.2022 18:49:10 - phaeton - work
+05.02.2022 18:51:23 --- START ---
+05.02.2022 18:51:36 - phaeton - work
+06.03.2022 14:47:02 --- START ---
+07.03.2022 13:36:11 --- START ---
+14.04.2022 12:21:13 --- START ---
+14.04.2022 12:21:38 - phaeton - work
+14.04.2022 12:23:26 --- START ---
+14.04.2022 12:23:49 - phaeton - work
+14.04.2022 12:24:10 - pashka - not work
+14.04.2022 12:24:32 - Tolmach - work
