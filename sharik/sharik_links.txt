@@ -1,0 +1,2 @@
+https://www.svo.aero/bitrix/timetable/?direction=departure&dateStart=2022-01-22T00:00:00%2B03:00&dateEnd=2022-01-23T00:00:00%2B03:00&perPage=9999&page=0&locale=ru
+https://www.svo.aero/bitrix/timetable/?direction=arrival&dateStart=2022-01-22T00:00:00%2B03:00&dateEnd=2022-01-23T00:00:00%2B03:00&perPage=9999&page=0&locale=ru
