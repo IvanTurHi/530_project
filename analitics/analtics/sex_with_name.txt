@@ -1,0 +1,117 @@
+ÈÅ SHU Aurora
+HZ SHU Aurora
+SU AFL Aeroflot
+ÑÓ AFL Aeroflot
+A4 AZO Azimuth
+7R RLU Rusline
+ÐÃ RLU Rusline
+KO KMA Komiaviatrans
+ÈÃ KMA Komiaviatrans
+S7 SBI S7
+Ñ7 SBI S7
+RB SYR Syrian Air
+GH GLP Globus
+U6 SVR UralAirlines
+Ó6 SVR UralAirlines
+QU UTN Azur Air Ukraine
+RL ABG Royal Flight
+4R ABG Royal Flight
+ÃÍ ABG Royal Flight
+UT UTA Utair
+YC LLM Yamal Airlines
+ßÌ LLM Yamal Airlines
+ÄÐ PBD Pobeda
+DP PBD Pobeda
+2G AGU Angara Airlines
+ÈÊ AGU Angara Airlines
+IO IAE IrAero
+ÐÄ IAE IrAero
+TK THY Turkish Airlines
+K6 KSM Kosmos Airlines
+ÃÊ KSM Kosmos Airlines
+EO KAR Pegas Fly
+I8 IZA Izhavia
+ÝÊ SSJ Krasavia
+Êß SSJ Krasavia
+ÌÏ MMM Meridian Air Company
+6R DRU Alrosa
+Y7 TYA NordStar
+D2 SSF Severstal Aircompany
+N4 NWS Nordwind Airlines
+R3 SYL Yakutia Airlines
+ßÊ SYL Yakutia Airlines
+BR EVA EVA Air
+5F FIA Fly One
+PI RKA polar Airlines
+ßÏ RKA polar Airlines
+BA BAW British Airways
+B2 BRU Belavia
+J2 AHY Azerbaijan Airlines
+TP TAP TAP Air Portugal
+AT RAM Royal Air Maroc
+AI AIC Air India
+WZ RWZ Red Wings
+AF AFR Air France
+FV SDM Rossiya
+A3 AEE Aegean Airlines
+ÂÖ CIG Sirius Aero
+9U MLD Air Moldova
+5Í AUL Smartavia
+5N AUL Smartavia
+BT BTI Air Baltic
+RT BUG UVT Aero
+ÞÂ BUG UVT Aero
+DL DAL Delta Air Lines
+ÓÒ TRH Turuhan
+ÝÒ TRH Turuhan
+LX SWR Swiss
+W5 IRM Mahan Air
+UX AEA Air Europa
+FZ FDB FlyDubai
+UL ALK Srilankan Airlines
+SV SVA Saudia
+AR ARG Aerolines Argentinas
+SZ SMR Somon Air
+LH DLH Lufthansa
+AY FIN Finnair
+YK AVJ Avia Traffic
+QF QFA Qantas
+GA GIA Garuda Indonesia
+ZF AZV Azur Air
+JU JAT JetSMART
+ET ETH Ethiopian Airlines
+KQ KQA Kenya Airways
+PC PGT Pegasus Airlines
+AM AMX Aeromexico
+LY ELY El AI
+LO LOT LOT
+EK UAE Emirates
+MU CES China Eastern Airlines
+EY ETD Etihad Airways
+QR QTR Qatar Airways
+FG AFG Ariana Afghan Airlines
+QS TVS Smartwings
+HY UZB Uzbekistan Airways
+SQ SIA Singapore Airlines
+JL JAL Japan Airlines
+VN HVN Vietnam Airlines
+KC KZR Air Astana
+RJ RJA Berjaya Air
+KL KLM KLM
+YM MGX Montenegro Airlines
+AZ AZA Alitalia
+F7 RSY I-Fly
+ÒÛ TUL Tulpar Air
+O7 ORG Orenburzhye
+ØÒ RSJ RusJet
+ÞÔ PNH Panh Airlines
+ËÙ LUK LUKoil-Avia
+ÑÝ JSI Jet Air Group
+ÄÒ DXT Dexter
+ZU BBT Air Bashkortostan
+À× OAO 2 Aviation Division
+4G GZP Gazpromavia
+MO MNG Aero Mongolia
+IQ QAZ Qazaq Air
+RA RNA Nepal Airlines
+SHS SHS Shirak Avia
