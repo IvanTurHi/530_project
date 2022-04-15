@@ -1,49 +1,49 @@
-»≈ SHU Aurora
+√à√Ö SHU Aurora
 HZ SHU Aurora
 SU AFL Aeroflot
-—” AFL Aeroflot
+√ë√ì AFL Aeroflot
 A4 AZO Azimuth
 7R RLU Rusline
-–√ RLU Rusline
+√ê√É RLU Rusline
 KO KMA Komiaviatrans
-»√ KMA Komiaviatrans
+√à√É KMA Komiaviatrans
 S7 SBI S7
-—7 SBI S7
+√ë7 SBI S7
 RB SYR Syrian Air
 GH GLP Globus
 U6 SVR UralAirlines
-”6 SVR UralAirlines
+√ì6 SVR UralAirlines
 QU UTN Azur Air Ukraine
 RL ABG Royal Flight
 4R ABG Royal Flight
-√Õ ABG Royal Flight
+√É√ç ABG Royal Flight
 UT UTA Utair
 YC LLM Yamal Airlines
-ﬂÃ LLM Yamal Airlines
-ƒ– PBD Pobeda
+√ü√å LLM Yamal Airlines
+√Ñ√ê PBD Pobeda
 DP PBD Pobeda
 2G AGU Angara Airlines
-»  AGU Angara Airlines
+√à√ä AGU Angara Airlines
 IO IAE IrAero
-–ƒ IAE IrAero
+√ê√Ñ IAE IrAero
 TK THY Turkish Airlines
 K6 KSM Kosmos Airlines
-√  KSM Kosmos Airlines
+√É√ä KSM Kosmos Airlines
 EO KAR Pegas Fly
 I8 IZA Izhavia
-›  SSJ Krasavia
- ﬂ SSJ Krasavia
-Ãœ MMM Meridian Air Company
+√ù√ä SSJ Krasavia
+√ä√ü SSJ Krasavia
+√å√è MMM Meridian Air Company
 6R DRU Alrosa
 Y7 TYA NordStar
 D2 SSF Severstal Aircompany
 N4 NWS Nordwind Airlines
 R3 SYL Yakutia Airlines
-ﬂ  SYL Yakutia Airlines
+√ü√ä SYL Yakutia Airlines
 BR EVA EVA Air
 5F FIA Fly One
 PI RKA polar Airlines
-ﬂœ RKA polar Airlines
+√ü√è RKA polar Airlines
 BA BAW British Airways
 B2 BRU Belavia
 J2 AHY Azerbaijan Airlines
@@ -54,16 +54,16 @@ WZ RWZ Red Wings
 AF AFR Air France
 FV SDM Rossiya
 A3 AEE Aegean Airlines
-¬÷ CIG Sirius Aero
+√Ç√ñ CIG Sirius Aero
 9U MLD Air Moldova
-5Õ AUL Smartavia
+5√ç AUL Smartavia
 5N AUL Smartavia
 BT BTI Air Baltic
 RT BUG UVT Aero
-ﬁ¬ BUG UVT Aero
+√û√Ç BUG UVT Aero
 DL DAL Delta Air Lines
-”“ TRH Turuhan
-›“ TRH Turuhan
+√ì√í TRH Turuhan
+√ù√í TRH Turuhan
 LX SWR Swiss
 W5 IRM Mahan Air
 UX AEA Air Europa
@@ -101,15 +101,15 @@ KL KLM KLM
 YM MGX Montenegro Airlines
 AZ AZA Alitalia
 F7 RSY I-Fly
-“€ TUL Tulpar Air
+√í√õ TUL Tulpar Air
 O7 ORG Orenburzhye
-ÿ“ RSJ RusJet
-ﬁ‘ PNH Panh Airlines
-ÀŸ LUK LUKoil-Avia
-—› JSI Jet Air Group
-ƒ“ DXT Dexter
+√ò√í RSJ RusJet
+√û√î PNH Panh Airlines
+√ã√ô LUK LUKoil-Avia
+√ë√ù JSI Jet Air Group
+√Ñ√í DXT Dexter
 ZU BBT Air Bashkortostan
-¿◊ OAO 2 Aviation Division
+√Ä√ó OAO 2 Aviation Division
 4G GZP Gazpromavia
 MO MNG Aero Mongolia
 IQ QAZ Qazaq Air
